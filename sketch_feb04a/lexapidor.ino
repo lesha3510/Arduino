@@ -5,5 +5,8 @@ void setup() {
 
 void loop() {
   hsdhsdhdshhasdhash jinjignamnpgmioosd
+Sakura rascvela 
+Hotel iz musora biocomputer sobrat
+Sosat
 as
 }
